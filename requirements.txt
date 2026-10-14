@@ -1,0 +1,8 @@
+# Pinned to the versions used by the authors. Loosen if your platform
+# requires it; the SDK and pydantic majors are the ones that matter.
+
+openai-agents==0.12.5
+openai==2.29.0
+python-dotenv==1.2.1
+openpyxl==3.1.5
+PyYAML==6.0.3
