@@ -159,13 +159,4 @@ notice is retained in [`LICENSE`](LICENSE).
   url           = {https://arxiv.org/abs/2608.07449}
 }
 
-@misc{wang2026skillgrad,
-  title         = {{SkillGrad}: Optimizing Agent Skills Like Gradient Descent},
-  author        = {Hanyu Wang and Yifan Lan and Bochuan Cao and Lu Lin and Jinghui Chen},
-  year          = {2026},
-  eprint        = {2605.27760},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.AI},
-  url           = {https://arxiv.org/abs/2605.27760}
-}
 ```
